@@ -12,7 +12,7 @@ displays: when the article was created.
 - Clicking on the image or title of the news opens the viewing page
 news with a detailed description of the article.
 
-- When you click on the logo, you should return to the main page.
+- Clicking on the logo returns to the main page.
 
 - Implemented the scroll top button on the main page when scrolling the page
 a scroll top button appears when clicked which the page returns to
