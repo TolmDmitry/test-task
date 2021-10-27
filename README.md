@@ -18,8 +18,8 @@ news with a detailed description of the article.
 a scroll top button appears when clicked which the page returns to
 top scroll position
 
--Implemented a preloader while loading data from the api in the center of the page.
+- Implemented a preloader while loading data from the api in the center of the page.
 
--Search by the name of the loaded news is implemented, after entering the name and
+- Search by the name of the loaded news is implemented, after entering the name and
 clicking on the search button or the enter key, the search result appears if there are no matches with the articles
 ‘No exact matches found’ is displayed.
